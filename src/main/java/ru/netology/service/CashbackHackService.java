@@ -1,5 +1,7 @@
 package ru.netology.service;
 
+import org.testng.annotations.Test;
+
 public class CashbackHackService {
     private final int boundary = 1000;
 
